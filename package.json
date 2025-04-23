@@ -1,0 +1,12 @@
+{
+  "name": "license-dependencies-example",
+  "version": "1.0.0",
+  "description": "Example package.json with dependencies for specific licenses",
+  "license": "MIT",
+  "dependencies": {
+    "hdparm": "latest",
+    "bcrypt": "^5.1.1",
+    "libpng": "^1.6.43",
+    "darwin-pty": "^0.5.0"
+  }
+}
