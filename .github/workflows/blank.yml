@@ -16,7 +16,7 @@ jobs:
       - name: 'Dependency Review'
         uses: actions/dependency-review-action@v4.6.0
         with:
-          fail-on-severity: medium
+          fail-on-severity: moderate
 
           allow-licenses: >
             BlueOak-1.0.0,
